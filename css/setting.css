@@ -10,6 +10,7 @@ body{
 .underline{
     text-decoration: underline;
     margin: 0 5px;
+    text-underline-offset: 8px;
 }
 .edit{
     padding: 20px;
