@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "name": "calculation-of-average-scores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./tailwind/tailwind.css -o ./css/main.css --watch"
+  },
+  "author": "Amirmohammad Akbarloo",
+  "license": "ISC",
+  "description": ""
+}

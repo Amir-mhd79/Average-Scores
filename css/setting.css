@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right bottom, #0f0c3b, #361554, #601a69, #8d1a79, #bc1783);
+    background-repeat: no-repeat;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.underline{
+    text-decoration: underline;
+    margin: 0 5px;
+}
+.edit{
+    padding: 20px;
+    text-align: center;
+}
